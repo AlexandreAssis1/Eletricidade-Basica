@@ -2,8 +2,6 @@
 
 Este repositório contém um material completo e organizado sobre **Eletricidade Básica**, desenvolvido em LaTeX. O objetivo é apresentar os principais conceitos, fórmulas e análises fundamentais da área, servindo como apoio ao estudo teórico e à prática de resolução de problemas.
 
----
-
 ## 📚 Tópicos abordados
 
 - Corrente elétrica
@@ -22,15 +20,11 @@ Este repositório contém um material completo e organizado sobre **Eletricidade
 - Cálculo de consumo de energia elétrica
 - Conversão de unidades
 
----
-
 ## 🧰 Estrutura do projeto
 
 - `.zip`: documento em LaTeX
 - `.pdf`: versão final compilada do material (PDF)
 - `README.md`: este arquivo de descrição
-
----
 
 ## 👨‍🎓 Autor
 
